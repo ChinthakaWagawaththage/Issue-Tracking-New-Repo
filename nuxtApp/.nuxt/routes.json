@@ -1,0 +1,37 @@
+[
+  {
+    "name": "add",
+    "path": "/add",
+    "component": "C:\\\\Users\\\\ChinthakaW\\\\Desktop\\\\Laravel\\\\Assessment_01\\\\nuxtApp\\\\pages\\\\add.vue",
+    "chunkName": "pages/add",
+    "_name": "_6d36046a"
+  },
+  {
+    "name": "delete",
+    "path": "/delete",
+    "component": "C:\\\\Users\\\\ChinthakaW\\\\Desktop\\\\Laravel\\\\Assessment_01\\\\nuxtApp\\\\pages\\\\delete.vue",
+    "chunkName": "pages/delete",
+    "_name": "_ee8ea31e"
+  },
+  {
+    "name": "edit",
+    "path": "/edit",
+    "component": "C:\\\\Users\\\\ChinthakaW\\\\Desktop\\\\Laravel\\\\Assessment_01\\\\nuxtApp\\\\pages\\\\edit.vue",
+    "chunkName": "pages/edit",
+    "_name": "_0f0162d0"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\ChinthakaW\\\\Desktop\\\\Laravel\\\\Assessment_01\\\\nuxtApp\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_46eb57da"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ChinthakaW\\\\Desktop\\\\Laravel\\\\Assessment_01\\\\nuxtApp\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_12e2b0fc"
+  }
+]
